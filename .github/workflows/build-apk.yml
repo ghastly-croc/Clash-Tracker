@@ -21,11 +21,11 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Make Gradle Wrapper Executable
-        run: chmod +x gradlew
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v3
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug
+        run: gradle assembleDebug
 
       - name: Publish Release with APK
         uses: softprops/action-gh-release@v2
