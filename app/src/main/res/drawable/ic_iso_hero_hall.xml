@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="44"
+    android:viewportHeight="44">
+    <!-- Isometric Hero Hall (Purple & Gold Royal Roof) -->
+    <!-- Base -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M22,42 L4,32 L22,22 L40,32 Z" />
+    <!-- Hall Walls -->
+    <path
+        android:fillColor="#581C87"
+        android:pathData="M9,32 L9,20 L22,28 L22,40 Z" />
+    <path
+        android:fillColor="#3B0764"
+        android:pathData="M22,28 L35,20 L35,32 L22,40 Z" />
+    <!-- Slanted Royal Purple Roof with Gold Trim -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M22,8 L5,19 L22,29 L39,19 Z" />
+    <path
+        android:fillColor="#7E22CE"
+        android:pathData="M22,10 L8,19 L22,27 L36,19 Z" />
+    <!-- Crown Emblem on Roof -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M18,19 L17,14 L20,16 L22,13 L24,16 L27,14 L26,19 Z" />
+</vector>

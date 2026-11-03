@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="44"
+    android:viewportHeight="44">
+    <!-- Isometric Super Wizard Tower (Dark Spire with Glowing Cyan Crystal Top) -->
+    <!-- Base -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M22,42 L6,33 L22,24 L38,33 Z" />
+    <!-- Spire Left -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M10,34 L15,17 L22,21 L22,39 Z" />
+    <!-- Spire Right -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M22,21 L29,17 L34,34 L22,39 Z" />
+    <!-- Glowing Arcane Crystal Basin at Top -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M22,9 L11,15 L22,21 L33,15 Z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M22,11 L14,15 L22,19 L30,15 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M22,5 L16,13 L22,17 L28,13 Z" />
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M22,5 L18,11 L22,14 L26,11 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Clash Tracker",
+  "description": "Home screen widget and upgrade tracker for Clash of Clans builders, laboratory, heroes, and pets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

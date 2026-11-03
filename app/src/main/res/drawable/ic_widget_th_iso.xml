@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Isometric 3D Town Hall (Blue & Gold Fortress) -->
+    <!-- Base stone platform -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M24,44 L6,34 L24,24 L42,34 Z" />
+    <path
+        android:fillColor="#334155"
+        android:pathData="M24,44 L42,34 L42,37 L24,47 L6,37 L6,34 Z" />
+    <!-- Left Castle Wall -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M10,33 L10,17 L24,25 L24,41 Z" />
+    <!-- Right Castle Wall -->
+    <path
+        android:fillColor="#172554"
+        android:pathData="M24,25 L38,17 L38,33 L24,41 Z" />
+    <!-- Golden Roof Trim Left & Right -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M24,8 L8,17 L24,26 L40,17 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M24,10 L11,17 L24,24 L37,17 Z" />
+    <!-- Upper Keep Tower -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M17,17 L17,9 L24,13 L24,21 Z" />
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M24,13 L31,9 L31,17 L24,21 Z" />
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M24,5 L16,9 L24,13 L32,9 Z" />
+    <!-- Glowing Portal Door -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M27,37 L27,29 L33,26 L33,34 Z" />
+    <!-- Gold Corner Turrets -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M8,19 L12,17 L12,33 L8,35 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M22,25 L26,25 L26,41 L22,41 Z" />
+</vector>

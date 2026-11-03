@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="44"
+    android:viewportHeight="44">
+    <!-- Isometric Dark Elixir Storage Tank -->
+    <!-- Base Platform -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M22,42 L4,32 L22,22 L40,32 Z" />
+    <!-- Tank Left Face -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M8,31 L8,15 L22,23 L22,39 Z" />
+    <!-- Tank Right Face -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M22,23 L36,15 L36,31 L22,39 Z" />
+    <!-- Dark Elixir Core Top -->
+    <path
+        android:fillColor="#312E81"
+        android:pathData="M22,7 L8,15 L22,23 L36,15 Z" />
+    <!-- Gold Corner Brackets -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M22,5 L18,7.5 L22,10 L26,7.5 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M20,22 L24,22 L24,40 L20,40 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M6,14 L10,14 L10,32 L6,32 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M34,14 L38,14 L38,32 L34,32 Z" />
+</vector>

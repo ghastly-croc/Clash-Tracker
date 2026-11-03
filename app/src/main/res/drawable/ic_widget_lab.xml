@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Lab Flask / Potion -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M19,20L14,13V6H15C15.55,6 16,5.55 16,5C16,4.45 15.55,4 15,4H9C8.45,4 8,4.45 8,5C8,5.55 8.45,6 9,6H10V13L5,20C4.38,20.93 5.05,22 6.16,22H17.84C18.95,22 19.62,20.93 19,20ZM8.9,16L11,13.2V6H13V13.2L15.1,16H8.9Z" />
+</vector>

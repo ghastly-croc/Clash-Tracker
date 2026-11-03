@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="44"
+    android:viewportHeight="44">
+    <!-- Isometric Multi-Gear / Defense Tower -->
+    <!-- Stone Base -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M22,42 L6,33 L22,24 L38,33 Z" />
+    <!-- Left Tower Pillar -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M12,33 L14,16 L22,21 L22,39 Z" />
+    <!-- Right Tower Pillar -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M22,21 L30,16 L32,33 L22,39 Z" />
+    <!-- Golden Gear Band -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M11,25 L22,31 L33,25 L33,29 L22,35 L11,29 Z" />
+    <!-- Upper Turret Platform -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M22,11 L11,17 L22,23 L33,17 Z" />
+    <!-- Red/Gold Turret Top -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M22,5 L16,13 L22,17 L28,13 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M20,4 L24,4 L24,14 L20,14 Z" />
+</vector>
